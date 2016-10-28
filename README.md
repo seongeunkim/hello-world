@@ -1,2 +1,3 @@
 # hello-world
-Learning how to use github!
+
+Hello! I'm Seong Eun Kim, I'm a computer engineering student and this is my first time using github!
